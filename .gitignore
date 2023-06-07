@@ -1,0 +1,5 @@
+/.env
+/.idea/
+/data/
+/venv/
+/python-training-2.iml
